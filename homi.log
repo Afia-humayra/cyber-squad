@@ -1,0 +1,131 @@
+2025-10-17 08:25:49,447 - __main__ - INFO - Starting Homi with Status Monitor
+2025-10-17 08:25:49,780 - __main__ - INFO - Status monitor GUI started
+2025-10-17 08:25:51,715 - __main__ - INFO - Servo initialized at 0 degrees
+2025-10-17 08:26:04,513 - __main__ - ERROR - Vision API error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-10-17 08:26:04,615 - __main__ - INFO - GPIO cleanup completed
+2025-10-17 08:26:32,560 - __main__ - INFO - Starting Homi with Status Monitor
+2025-10-17 08:26:32,891 - __main__ - INFO - Status monitor GUI started
+2025-10-17 08:26:34,830 - __main__ - INFO - Servo initialized at 0 degrees
+2025-10-17 08:26:48,017 - __main__ - ERROR - Vision API error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-10-17 08:26:48,120 - __main__ - INFO - GPIO cleanup completed
+2025-10-17 08:29:23,067 - __main__ - INFO - Starting Homi with Status Monitor
+2025-10-17 08:29:23,404 - __main__ - INFO - Status monitor GUI started
+2025-10-17 08:29:25,344 - __main__ - INFO - Servo initialized at 0 degrees
+2025-10-17 08:29:38,607 - __main__ - ERROR - Vision API error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-10-17 08:29:38,709 - __main__ - INFO - GPIO cleanup completed
+2025-10-17 08:32:43,288 - __main__ - INFO - Starting Homi with Monitor
+2025-10-17 08:32:43,604 - __main__ - INFO - Status monitor started
+2025-10-17 08:32:45,547 - __main__ - INFO - Servo initialized at 0 degrees
+2025-10-17 08:32:47,046 - __main__ - INFO - Vision API ready
+2025-10-17 08:32:47,192 - __main__ - INFO - Mics: ['bcm2835 Headphones: - (hw:2,0)', 'Rapoo Gaming Headset: USB Audio (hw:3,0)', 'pulse', 'default']
+2025-10-17 08:32:50,600 - __main__ - WARNING - Audio file not found: audio_files/ready.wav
+2025-10-17 08:32:57,768 - __main__ - INFO - Voice: hello
+2025-10-17 08:33:06,682 - __main__ - INFO - Played audio: audio_files/Greet1.wav
+2025-10-17 08:33:11,381 - __main__ - INFO - Voice: can you scan my homework
+2025-10-17 08:33:13,085 - __main__ - INFO - Played audio: audio_files/taking_photo.mp3
+2025-10-17 08:33:13,085 - __main__ - INFO - Will capture image in 5.0 seconds...
+2025-10-17 08:33:19,977 - __main__ - INFO - Image captured: captured_homework.jpg
+2025-10-17 08:33:21,582 - __main__ - INFO - Played audio: audio_files/ocr_processing.mp3
+2025-10-17 08:33:22,953 - __main__ - INFO - OCR Text: ill Be Blood...
+2025-10-17 08:33:22,954 - __main__ - INFO - OCR success: ill be blood...
+2025-10-17 08:33:25,463 - __main__ - INFO - Played audio: audio_files/topic_not_found.mp3
+2025-10-17 08:33:50,228 - __main__ - INFO - Voice: hello
+2025-10-17 08:33:51,830 - __main__ - INFO - Played audio: audio_files/Greet2.wav
+2025-10-17 08:44:56,852 - __main__ - INFO - Logger initialized successfully
+2025-10-17 08:44:56,854 - __main__ - INFO - Starting Homi Full-Screen OCR System
+2025-10-17 08:44:58,864 - __main__ - INFO - Servo initialized at 0 degrees
+2025-10-17 08:45:00,310 - __main__ - INFO - Google Vision API connected
+2025-10-17 08:45:00,465 - __main__ - INFO - Available microphones: ['bcm2835 Headphones: - (hw:2,0)', 'Rapoo Gaming Headset: USB Audio (hw:3,0)', 'pulse', 'default']
+2025-10-17 08:45:00,627 - __main__ - INFO - Microphone initialized
+2025-10-17 08:45:02,892 - __main__ - WARNING - Audio file not found: audio_files/ready.wav
+2025-10-17 08:45:02,893 - __main__ - INFO - Voice recognition active
+2025-10-17 08:45:38,620 - __main__ - INFO - Logger initialized successfully
+2025-10-17 08:45:38,621 - __main__ - INFO - Starting Homi Full-Screen OCR System
+2025-10-17 08:45:38,923 - __main__ - INFO - Full-screen GUI initialized
+2025-10-17 08:45:40,871 - __main__ - ERROR - Servo setup error: 'GPIO not allocated'
+2025-10-17 08:45:41,333 - __main__ - INFO - Google Vision API connected
+2025-10-17 08:45:41,483 - __main__ - INFO - Available microphones: ['bcm2835 Headphones: - (hw:2,0)', 'pulse', 'default']
+2025-10-17 08:45:41,619 - __main__ - INFO - Microphone initialized
+2025-10-17 08:45:43,858 - __main__ - WARNING - Audio file not found: audio_files/ready.wav
+2025-10-17 08:45:43,860 - __main__ - INFO - Voice recognition active
+2025-10-17 08:45:48,293 - __main__ - INFO - Voice command: hello
+2025-10-17 08:45:57,114 - __main__ - INFO - Played audio: audio_files/Greet1.wav
+2025-10-17 08:46:02,085 - __main__ - INFO - Voice command: can you solve this homework
+2025-10-17 08:46:02,085 - __main__ - INFO - Homework command detected - starting OCR
+2025-10-17 08:46:03,790 - __main__ - INFO - Played audio: audio_files/taking_photo.mp3
+2025-10-17 08:46:03,791 - __main__ - INFO - Capturing image in 5.0 seconds...
+2025-10-17 08:46:10,939 - __main__ - INFO - Image captured: captured_homework.jpg
+2025-10-17 08:46:12,544 - __main__ - INFO - Played audio: audio_files/ocr_processing.mp3
+2025-10-17 08:46:14,228 - __main__ - INFO - OCR detected: Will Be Blood...
+2025-10-17 08:46:14,229 - __main__ - INFO - OCR successful: 13 characters
+2025-10-17 08:46:14,233 - __main__ - INFO - No topic matched
+2025-10-17 08:46:16,741 - __main__ - INFO - Played audio: audio_files/topic_not_found.mp3
+2025-10-17 08:46:23,430 - __main__ - INFO - Voice command: i am hungry
+2025-10-17 08:46:23,431 - __main__ - ERROR - Servo not initialized
+2025-10-17 08:46:28,432 - __main__ - ERROR - Servo not initialized
+2025-10-17 08:46:48,640 - __main__ - INFO - Voice command: hello
+2025-10-17 08:46:57,554 - __main__ - INFO - Played audio: audio_files/Greet1.wav
+2025-10-17 08:47:02,591 - __main__ - INFO - Voice command: teach me addition
+2025-10-17 08:47:48,348 - __main__ - INFO - Voice command: teach me addition
+2025-10-17 08:52:38,701 - __main__ - INFO - Logger initialized successfully
+2025-10-17 08:52:38,702 - __main__ - INFO - Starting Homi with pigpio Servo
+2025-10-17 08:52:39,031 - __main__ - INFO - Full-screen GUI initialized
+2025-10-17 08:52:40,970 - __main__ - INFO - Servo initialized on GPIO 12 at 0 degrees
+2025-10-17 08:52:41,971 - __main__ - INFO - Running servo test sequence
+2025-10-17 08:52:45,973 - __main__ - INFO - Servo test sequence finished
+2025-10-17 08:52:46,847 - __main__ - INFO - Microphones: ['bcm2835 Headphones: - (hw:2,0)', 'Rapoo Gaming Headset: USB Audio (hw:3,0)', 'pulse', 'default']
+2025-10-17 08:52:53,823 - __main__ - ERROR - Voice error: 
+2025-10-17 08:52:56,756 - __main__ - ERROR - Voice error: 
+2025-10-17 08:53:04,400 - __main__ - ERROR - Voice error: 
+2025-10-17 08:53:04,799 - __main__ - INFO - Servo test triggered by T key
+2025-10-17 08:53:04,800 - __main__ - INFO - Running servo test sequence
+2025-10-17 08:53:08,802 - __main__ - INFO - Servo test sequence finished
+2025-10-17 08:53:09,554 - __main__ - ERROR - Voice error: 
+2025-10-17 08:53:11,871 - __main__ - INFO - Manual OCR triggered
+2025-10-17 08:53:13,160 - __main__ - ERROR - Voice error: 
+2025-10-17 08:53:13,577 - __main__ - INFO - Played audio: audio_files/taking_photo.mp3
+2025-10-17 08:53:13,577 - __main__ - INFO - Capturing image in 5.0 seconds...
+2025-10-17 08:53:20,428 - __main__ - INFO - Image captured: captured_homework.jpg
+2025-10-17 08:53:22,032 - __main__ - INFO - Played audio: audio_files/ocr_processing.mp3
+2025-10-17 08:53:23,764 - __main__ - INFO - OCR detected: Will Be Blood...
+2025-10-17 08:53:23,765 - __main__ - INFO - OCR successful: 13 characters
+2025-10-17 08:53:23,767 - __main__ - INFO - No topic matched
+2025-10-17 08:54:11,334 - __main__ - INFO - Servo test triggered by T key
+2025-10-17 08:54:11,335 - __main__ - INFO - Running servo test sequence
+2025-10-17 08:54:15,338 - __main__ - INFO - Servo test sequence finished
+2025-10-17 08:54:25,370 - __main__ - INFO - Servo test triggered by T key
+2025-10-17 08:54:25,371 - __main__ - INFO - Running servo test sequence
+2025-10-17 08:54:29,373 - __main__ - INFO - Servo test sequence finished
+2025-10-17 08:54:54,913 - __main__ - INFO - Window closing
+2025-10-17 08:57:19,365 - __main__ - INFO - Logger initialized
+2025-10-17 08:57:19,368 - __main__ - INFO - Starting Homi - Fixed Speech
+2025-10-17 08:57:21,651 - __main__ - INFO - Servo initialized
+2025-10-17 08:57:22,153 - __main__ - INFO - Servo: 0°
+2025-10-17 08:57:22,654 - __main__ - INFO - Servo: 90°
+2025-10-17 08:57:23,155 - __main__ - INFO - Servo: 180°
+2025-10-17 08:57:23,656 - __main__ - INFO - Servo: 0°
+2025-10-17 08:57:24,057 - __main__ - INFO - Speech active
+2025-10-17 08:57:38,063 - __main__ - INFO - Voice: hello
+2025-10-17 08:57:48,153 - __main__ - INFO - Voice: hello
+2025-10-17 08:58:21,386 - __main__ - INFO - Voice: hello
+2025-10-17 08:58:28,005 - __main__ - INFO - Servo cleaned up
+2025-10-17 09:32:59,333 - INFO - Homi System Starting
+2025-10-17 09:32:59,335 - INFO - 🚀 HOMI - Homework OCR + Servo System
+2025-10-17 09:32:59,339 - INFO - ✅ Servo initialized on GPIO 12
+2025-10-17 09:33:00,340 - INFO - 🦾 Running servo test sequence...
+2025-10-17 09:33:01,340 - INFO - Servo at 0°
+2025-10-17 09:33:02,341 - INFO - Servo at 90°
+2025-10-17 09:33:03,342 - INFO - Servo at 180°
+2025-10-17 09:33:04,343 - INFO - ✅ Servo test complete
+2025-10-17 09:33:04,344 - INFO - 🎤 Initializing speech recognition...
+2025-10-17 09:33:06,854 - INFO - ✅ Speech recognition active
+2025-10-17 09:33:06,859 - INFO - Say: 'help with homework', 'feed me', 'test servo'
+2025-10-17 09:33:06,860 - INFO - ✅ System ready!
+2025-10-17 09:33:06,860 - INFO - Voice Commands:
+2025-10-17 09:33:06,860 - INFO -   - 'help with homework' → OCR processing
+2025-10-17 09:33:06,860 - INFO -   - 'feed me' → Servo feeding
+2025-10-17 09:33:06,861 - INFO -   - 'test servo' → Full servo test
+2025-10-17 09:33:06,861 - INFO - Keyboard: Ctrl+C to quit
+2025-10-17 09:35:46,538 - INFO - 
+🛑 Shutting down...
+2025-10-17 09:35:46,539 - INFO - 🧹 Servo cleanup complete
